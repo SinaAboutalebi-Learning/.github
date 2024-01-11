@@ -9,5 +9,5 @@ I will be committed to continuously improving them as I learn more.
 Feel free to contribute 😄
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SinaAboutalebi-Learning/.github/main/profile/images/fancy-astronuat.gif" alt="us" />
+  <img src="https://raw.githubusercontent.com/SinaAboutalebi-Learning/.github/main/profile/images/fancy-astronaut.gif" alt="us" />
 </p>
